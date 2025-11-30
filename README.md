@@ -8,9 +8,9 @@ Emotions and decisions influence each other. Emotional states shape choice behav
 
 
 ## Description of the files:
-- **EDA_Findex_featuresExt**: This file contains the prepocessing and data collection steps of EDA signals. It removes noise and artificats. As well it decompose the signal into SCL and SCR components. As well it separates the signal into decision-phases.
-- **Risk_wo_Visualization_Final**: This file contains all calculation of risk measurements such as Voaltility and Fundamental Value.
-- **Statstical_Test_Final**: This file contains all statistical tests which are used to investigate the relationship between EDA and risk measurements. This notbeook is to big, therefore is here also a zip file and a file without the output (only the code). "Statistical_Tests_Final_withOut_Output" -> No output
+- **EDA_Findex_featuresExt**: This file contains the preprocessing and data collection steps for EDA signals. It removes noise and artifacts. It also decomposes the signal into SCL and SCR components. It also separates the signal into decision phases.
+- **Risk_wo_Visualization_Final**: This file contains all risk measurement calculations, such as volatility and fundamental value.
+- **Statistical_Test_Final**: This file contains all the statistical tests used to investigate the relationship between EDA and risk measurements. This notebook is too big; therefore, there is also a zip file and a file without the output (only the code). "Statistical_Tests_Final_withOut_Output" -> No output
 - **Data_Visualization_Final**: This code contains all visualizations.
 
   
